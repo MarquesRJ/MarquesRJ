@@ -1,4 +1,4 @@
-## system.out.println("Olá! Eu sou o Gabriel Marques");
+## System.out.println("Olá! Eu sou o Gabriel Marques");
 
 ![Gabriel Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=MarquesRJ&show_icons=true&theme=gradient)
 
